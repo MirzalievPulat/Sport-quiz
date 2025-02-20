@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/MirzalievPulat/2048-Hallowen-/blob/main/ic_launcher-playstore.png?raw=true)
+![Logo](https://github.com/MirzalievPulat/Sport-quiz/blob/main/quizApp_1024.png?raw=true)
 
 
 # ⚽ Sport-quiz
@@ -31,4 +31,4 @@ Contact me with the help of email(mirzaliyevpolat3105@gmail.com), [telegram](htt
 
 ## 📥 Download
 
-You can download the APK file from [here](https://github.com/MirzalievPulat/2048-Hallowen-/raw/main/app-release.apk)
+You can download the APK file from [here](https://github.com/MirzalievPulat/Sport-quiz/raw/main/app-release.apk)
